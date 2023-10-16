@@ -1,0 +1,21 @@
+1. Create Github repository
+2. Clone repository to local folder path using Gitbash
+3. Open repository in VS Code
+4. template.py for folder path creation and logging
+Git bash in VS Code Terminal
+cd C:\endtoendMLProjects\DeepLearning_ChickenDisease
+python
+
+from pathlib import Path
+path = "config/config.yaml"
+Path(path)
+import os
+os.path.split(path)
+
+os.path.getsize("README.md")
+exit()
+
+// In terminal
+python template.py
+
+5. 

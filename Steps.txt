@@ -18,4 +18,33 @@ exit()
 // In terminal
 python template.py
 
-5. 
+5. Add changes to Github
+git add .
+
+git commit -m "folder structure added"
+
+git push origin main
+
+
+6. Add all required packages and libraries in requirements.txt
+
+7. Add code in setup.py
+
+8. Imageseeker (example)
+
+9. Terminal:
+conda create -n chicken python=3.8 -y
+
+conda activate chicken
+
+pip install -r requirements.txt
+
+
+
+
+
+
+
+
+
+
